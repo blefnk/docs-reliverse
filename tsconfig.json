@@ -27,11 +27,11 @@
   },
   "include": [
     "**/*.d.ts",
-    "**/*.ts",
-    "**/*.tsx",
-    "eslint.config.js",
     "src/env.js",
-    "astro.config.js"
+    "src/**/*.ts",
+    "src/**/*.tsx",
+    "eslint.config.js",
+    "astro.config.ts"
   ],
   "exclude": ["node_modules"]
 }

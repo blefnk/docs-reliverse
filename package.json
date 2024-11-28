@@ -31,7 +31,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "astro": "^4.16.7",
+    "astro": "^4.16.16",
     "destr": "^2.0.3",
     "fs-extra": "^11.2.0",
     "pathe": "^1.1.2",
@@ -39,19 +39,19 @@
   },
   "devDependencies": {
     "@astrojs/check": "^0.9.4",
-    "@astrojs/starlight": "^0.28.3",
+    "@astrojs/starlight": "^0.29.2",
     "@biomejs/biome": "^1.9.4",
-    "@eslint/js": "^9.13.0",
+    "@eslint/js": "^9.15.0",
     "@types/eslint__js": "^8.42.3",
     "@types/fs-extra": "^11.0.4",
-    "@types/node": "^22.8.0",
+    "@types/node": "^22.10.1",
     "cross-env": "^7.0.3",
-    "eslint": "^9.13.0",
-    "knip": "^5.34.0",
+    "eslint": "^9.15.0",
+    "knip": "^5.38.2",
     "sharp": "^0.33.5",
-    "tsx": "^4.19.1",
-    "typescript": "5.6.3",
-    "typescript-eslint": "^8.11.0"
+    "tsx": "^4.19.2",
+    "typescript": "5.7.2",
+    "typescript-eslint": "^8.16.0"
   },
   "pnpm": {
     "peerDependencyRules": {
