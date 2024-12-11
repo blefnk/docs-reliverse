@@ -11,7 +11,7 @@ For those viewing this markdown file using:
 
 *It is recommended to install Relivator following the detailed instructions in the [README.md](https://github.com/blefnk/relivator#readme) to feel more confident as you begin learning Git.*
 
-It's true—[Git](https://git-scm.com) can be complex at first. Consider using resources like this guide, the [Git Book](https://git-scm.com/book), and [GitHub Skills](https://skills.github.com) to deepen your understanding. The command *git commit --help* will direct you to information about the `git commit` command and its options, so this help command can be beneficial as well. The best way to get comfortable with Git is to use it regularly. Create a small project or use a large web project template like [Relivator](https://github.com/blefnk/relivator-nextjs-template) and experiment with different commands. If you're ever unsure about something related to Git, refer to this detailed guide to learn more.
+It's true—[Git](https://git-scm.com) can be complex at first. Consider using resources like this guide, the [Git Book](https://git-scm.com/book), and [GitHub Skills](https://skills.github.com) to deepen your understanding. The command *git commit --help* will direct you to information about the `git commit` command and its options, so this help command can be beneficial as well. The best way to get comfortable with Git is to use it regularly. Create a small project or use a large web project template like [Relivator](https://github.com/blefnk/relivator) and experiment with different commands. If you're ever unsure about something related to Git, refer to this detailed guide to learn more.
 
 ## Git Initial Setup
 

@@ -3,7 +3,7 @@ title: Final Words
 description: This is the final words of Relivator.
 ---
 
-This Next.js 15 starter — Relivator — was crafted with love by [@blefnk Nazar Kornienko](https://github.com/blefnk) and the incredible [Bleverse OSS community](https://github.com/blefnk/relivator-nextjs-template/wiki/Project-Credits-&-Contributors). We are deeply grateful for all your contributions and support for this project.
+This Next.js 15 starter — Relivator — was crafted with love by [@blefnk Nazar Kornienko](https://github.com/blefnk) and the incredible [Bleverse OSS community](https://github.com/blefnk/relivator/wiki/Project-Credits-&-Contributors). We are deeply grateful for all your contributions and support for this project.
 
 Happy coding! Embark on the coding adventure, learn, iterate, and most importantly – enjoy the process! Remember – this is a space of learning and experimentation. Dive in and savor the journey! 🚀🌌
 
@@ -11,7 +11,7 @@ Check out [our other free Next.js 15 starter](https://github.com/blefnk/relivers
 
 <p>
   <span>
-    <a href="https://github.com/blefnk/relivator-nextjs-template/blob/main/reliverse.webp">
+    <a href="https://github.com/blefnk/relivator/blob/main/reliverse.webp">
       <picture>
           <source media="(prefers-color-scheme: dark)" srcset="/reliverse.webp" />
           <source media="(prefers-color-scheme: light)" srcset="/reliverse.webp" />
@@ -35,7 +35,7 @@ git clone https://github.com/blefnk/relivator.git
 
 <p>
   <span>
-    <a href="https://github.com/blefnk/relivator-nextjs-template/blob/main/og.png">
+    <a href="https://github.com/blefnk/relivator/blob/main/og.png">
       <picture>
           <source media="(prefers-color-scheme: dark)" srcset="/og.png" />
           <source media="(prefers-color-scheme: light)" srcset="/og.png" />

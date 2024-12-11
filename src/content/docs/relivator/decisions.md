@@ -98,7 +98,7 @@ W.I.P. — Use `bun css` to watch for [CSS tokens](https://blog.devgenius.io/lin
 
 **Recommended Things to Learn:**
 
-1. [The Detailed Git Guide](https://github.com/blefnk/relivator-nextjs-template/blob/main/.github/GITGUIDE.md) by [Nazar Kornienko @Blefnk](https://github.com/blefnk)
+1. [The Detailed Git Guide](https://github.com/blefnk/relivator/blob/main/.github/GITGUIDE.md) by [Nazar Kornienko @Blefnk](https://github.com/blefnk)
 2. [Introduction to Next.js and React](https://youtube.com/watch?v=h2BcitZPMn4) by [Lee Robinson](https://x.com/leeerob)
 3. [Relivator: Next.js 15 Starter (Release Announce of Relivator on Medium)](https://cutt.ly/awf6fScS) by [Nazar Kornienko @Blefnk](https://github.com/blefnk)
 4. [Welcome to the Wild World of TypeScript, Mate! Is it scary?](https://cutt.ly/CwjVPUNu) by [Nazar Kornienko @Blefnk](https://github.com/blefnk)

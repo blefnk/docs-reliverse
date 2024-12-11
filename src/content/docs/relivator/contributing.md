@@ -3,12 +3,6 @@ title: Contributing
 description: This is the contributing guide of Relivator.
 ---
 
-<!--
-For those who are viewing the current markdown file using:
- – VSCode: Press F1 or Cmd/Ctrl+Shift+P and enter ">Markdown: Open Preview". Please install the "markdownlint" and "Markdown All in One" extensions.
- – GitHub: Does this .md file appear different from what you are used to seeing on GitHub? Ensure the URL does not end with "?plain=1".
--->
-
 [![Join the Reliverse Discord](https://discordapp.com/api/guilds/1075533942096150598/widget.png?style=banner2)][bleverse-discord]
 
 Welcome, and thank you for considering contributing to this project! Your involvement is vital to the growth and success of this open-source initiative.
@@ -17,7 +11,7 @@ Welcome, and thank you for considering contributing to this project! Your involv
 
 Contributions are warmly welcomed! We express our gratitude to everyone who has contributed to this repository. the contributions will be recognized. If you have any questions or suggestions, please open an issue. For more information, see the [contributing guide](.github/CONTRIBUTING.md).
 
-Please visit [this special wiki page](https://github.com/blefnk/relivator-nextjs-template/wiki/Project-Credits-&-Contributors) to view the full list of credits and contributors. To contribute to Relivator, follow these steps:
+Please visit [this special wiki page](https://github.com/blefnk/relivator/wiki/Project-Credits-&-Contributors) to view the full list of credits and contributors. To contribute to Relivator, follow these steps:
 
 1. Begin by reading the "How to Install and Get Started" section on the top of this repository, and by reading [CONTRIBUTING.md](.github/CONTRIBUTING.md) page.
 2. Create a branch: `git checkout -b <branch_name>`.
@@ -56,7 +50,7 @@ Alternatively, check the GitHub docs on [how to create a pull request](https://h
 
 #### How to Submit a Bug Report
 
-- **GitHub Issues**: Utilize [GitHub Issues](https://github.com/blefnk/relivator-nextjs-template/issues/new) for reporting bugs.
+- **GitHub Issues**: Utilize [GitHub Issues](https://github.com/blefnk/relivator/issues/new) for reporting bugs.
 - **Clarity and Detail**: Clearly articulate both the expected and actual behaviors, and describe the steps to replicate the bug.
 - **Security Concerns**: For reporting security vulnerabilities, please contact us directly at <blefnk@gmail.com> instead of using public channels.
 
@@ -65,7 +59,7 @@ Alternatively, check the GitHub docs on [how to create a pull request](https://h
 #### Preliminary Considerations
 
 - **Version Check**: Ensure you're working with the latest version of the software.
-- **Existing Suggestions**: Search [GitHub Issues](https://github.com/blefnk/relivator-nextjs-template/issues?q=) and our [Discord Suggestions Channel](https://discord.com/channels/1075533942096150598/1196425440777224212) to see if the suggestion has already been made.
+- **Existing Suggestions**: Search [GitHub Issues](https://github.com/blefnk/relivator/issues?q=) and our [Discord Suggestions Channel](https://discord.com/channels/1075533942096150598/1196425440777224212) to see if the suggestion has already been made.
 - **Project Alignment**: Assess whether the suggestion is in line with the project's objectives.
 
 #### How to Suggest Enhancements
@@ -76,7 +70,7 @@ Alternatively, check the GitHub docs on [how to create a pull request](https://h
 
 ### Making the First Code Contribution
 
-1. **Issue Selection**: Choose an issue from [GitHub issues](https://github.com/blefnk/relivator-nextjs-template/issues?q=) and request its assignment.
+1. **Issue Selection**: Choose an issue from [GitHub issues](https://github.com/blefnk/relivator/issues?q=) and request its assignment.
 2. **Fork and Branch Creation**: Fork the repository and create a new branch, naming it after the issue number.
 3. **Committing Changes**: Adhere to a clear commit style, referencing the issue in the PR or commit message.
 4. **Submitting a Pull Request**: Propose the changes through a pull request from the forked repository.

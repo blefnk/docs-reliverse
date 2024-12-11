@@ -3,12 +3,6 @@ title: Contributing Guidelines for Our Documentation
 description: Contributing Guidelines for Our Documentation
 ---
 
-<!--
-For those who are viewing the current markdown file using:
- – VSCode: Press F1 or Cmd/Ctrl+Shift+P and enter ">Markdown: Open Preview". Please install the "markdownlint" and "Markdown All in One" extensions.
- – GitHub: Does this .md file appear different from what you are used to seeing on GitHub? Ensure the URL does not end with "?plain=1".
--->
-
 [📖 Docs](https://reliverse.org)
 
 Are you fluent in a language other than English? Your expertise is invaluable to us!

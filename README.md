@@ -1,8 +1,8 @@
 # Relidocs: Reliverse Ecosystem Documentation
 
-Begin your journey with Reliverse by exploring Relidocs, Reliverse's documentation website.\
+Begin your journey with Reliverse by exploring Relidocs, Reliverse's documentation website.
 
-👉 <https://reliverse.org>
+👉 <https://docs.reliverse.org>
 
 Welcome to Reliverse! This CLI helps you bootstrap and deploy new web apps in a matter of seconds.
 

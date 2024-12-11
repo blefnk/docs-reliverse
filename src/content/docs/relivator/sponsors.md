@@ -3,7 +3,7 @@ title: Sponsors
 description: This is the list of sponsors of Relivator.
 ---
 
-**[We're Growing Fast! A Huge Thanks to All Our Supporters!](https://github.com/blefnk/relivator-nextjs-template/stargazers)**
+**[We're Growing Fast! A Huge Thanks to All Our Supporters!](https://github.com/blefnk/relivator/stargazers)**
 
 Developing something as ambitious as Relivator takes a lot of time, especially since the project is primarily developed by just one person. The development could be significantly accelerated by hiring additional developers. Therefore, @blefnk (Nazar Kornienko), the author of this project, would be immensely grateful to anyone who can donate to the project in any amount. A big thank you to everyone in advance!
 
