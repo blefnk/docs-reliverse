@@ -1,0 +1,19 @@
+{
+	"markdownlint.config": {
+		"MD033": {
+			"allowed_elements": [
+				"Card",
+				"CardGrid",
+				"div",
+				"p",
+				"span",
+				"picture",
+				"a",
+				"img",
+				"source",
+				"details",
+				"summary"
+			]
+		}
+	}
+}
