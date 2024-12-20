@@ -1,44 +1,27 @@
-# Relidocs: Reliverse Ecosystem Documentation
+# Relidocs: Reliverse Documentation
 
-Begin your journey with Reliverse by exploring Relidocs, Reliverse's documentation website.
+**📚 Live**: [docs.reliverse.org](https://docs.reliverse.org/cli) | **💙 Discord**: [discord.gg/Pb8uKbwpsJ](https://discord.gg/Pb8uKbwpsJ) | [GitHub](https://github.com/blefnk/relidocs)
 
-👉 <https://docs.reliverse.org>
+Relidocs is a documentation website for the Reliverse Community.
 
-Welcome to Reliverse! This CLI helps you bootstrap and deploy new web apps in a matter of seconds.
+## Get Started
 
-The project focuses on Next.js, but support for other frameworks and additional features will be available soon. Happy coding!
+_Make sure you have [Node.js](https://nodejs.org), [Git](https://git-scm.com/downloads), and [Bun](https://bun.sh) installed. Then:_
 
-## 🚀 Project Structure
+- Clone: `git clone https://github.com/blefnk/relidocs.git`
+- Install: `bun i`
+- Run: `bun dev`
 
-Inside of the project, you'll see the following folders and files:
+## Docs Content
 
-```text
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── layouts/
-│   │   └── Layout.astro
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+- [Relivator Next.js Template](https://docs.reliverse.org/relivator/)
+- [Reliverse CLI](https://docs.reliverse.org/cli/)
+- [Environment variables](https://docs.reliverse.org/intro/env/)
 
-To learn more about the folder structure of an Astro project, refer to [Astro guide on project structure](https://docs.astro.build/en/basics/project-structure/).
+## Contributing
 
-## 🧞 Commands
+Please refer to the [Contributing](https://docs.reliverse.org/intro/contributing/) page for more information on how to contribute to Relidocs and to Reliverse ecosystem projects.
 
-All commands are run from the root of the project, from a terminal:
+***
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [Astro documentation](https://docs.astro.build) or jump into their [Discord server](https://astro.build/chat).
+Show your ❤️ and support for this project by ⭐ starring it and following its creator, [Nazar Kornienko](https://github.com/blefnk).

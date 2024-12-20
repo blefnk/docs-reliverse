@@ -23,7 +23,7 @@ description: This is the final words of Relivator.
 ```bash
 git clone https://github.com/blefnk/relivator.git
 ```
-[2023-2024 © Назар Корнієнко / Nazar Kornienko / blefnk](https://github.com/blefnk) (<https://relivator.com>)
+[2023-2024 © Назар Корнієнко / Nazar Kornienko / blefnk](https://github.com/blefnk)
 <p>
   <span
     <a href="https://github.com/blefnk/relivator/blob/main/og.png">
