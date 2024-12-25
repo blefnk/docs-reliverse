@@ -15,19 +15,32 @@
     }
   ],
   "markdownlint.config": {
+    "MD013": false,
     "MD033": {
       "allowed_elements": [
         "a",
+        "br",
         "Card",
         "CardGrid",
         "details",
         "div",
+        "h1",
         "img",
         "p",
         "picture",
         "source",
         "span",
-        "summary"
+        "sub",
+        "summary",
+        "sup",
+        "table",
+        "tbody",
+        "td",
+        "tfoot",
+        "th",
+        "thead",
+        "tr",
+        "b"
       ]
     }
   },

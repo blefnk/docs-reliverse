@@ -22,6 +22,12 @@ _Make sure you have [Node.js](https://nodejs.org), [Git](https://git-scm.com/dow
 
 Please refer to the [Contributing](https://docs.reliverse.org/intro/contributing/) page for more information on how to contribute to Relidocs and to Reliverse ecosystem projects.
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Note: The content in the `/**/cc` folders is licensed under the [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) (Creative Commons Attribution-ShareAlike 4.0 International License). See corresponding `/**/cc/cc-by-sa-license` file for details.
+
 ***
 
 Show your ❤️ and support for this project by ⭐ starring it and following its creator, [Nazar Kornienko](https://github.com/blefnk).

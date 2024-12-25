@@ -164,9 +164,7 @@ The mission of @reliverse/prompts is to achieve the 🟢 in all categories.
 | - Designed With UX/DX in Mind                            | 🟢                                                             | 🟡                                        | 🟡                     | 🟡                 | 🟡                   | 🟡                      | 🟡              | 🟡                | 🟡                |
 | - All components support Ctrl+C                          | 🔵                                                             | 🟡                                        | 🟡                     | 🟡                 | 🟡                   | 🟡                      | 🟡              | 🟡                | 🟡                |
 | - As minimal number of dependencies as possible          | 🔵                                                             | 🟢                                        | 🟡                     | 🟡                 | 🟡                   | 🟡                      | 🟡              | 🟡                | 🟡                |
-| -------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------ | ---------------------- | ------------------ | -------------------- | ------------------------- | --------------- | ------------------ | ----------------- |
 | **Components**                                           |                                                                |                                            |                        |                    |                      |                           |                 |                    |                   |
-| -------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------ | ---------------------- | ------------------ | -------------------- | ------------------------- | --------------- | ------------------ | ----------------- |
 | - Visual Components                                      | 🟢 Animated Text (incl. 6 anims) & ASCII Art (incl. 290 fonts) | 🟡                                        | 🟡                     | 🟡                 | 🟡                   | 🟡                      | 🟡              | 🟡                | 🟡                |
 | - Mono Component                                         | 🟢 Mono (All-In-One) & Separate                                | 🟡                                        | 🟡                     | 🟡                 | 🔵 Mono-only         | 🟡                      | 🟡              | 🟡                | 🟡                |
 | - Start Component                                        | 🟢                                                             | 🟡                                        | 🟡                     | 🟡                 | 🟡                   | 🟡                      | 🟡              | 🟡                | 🟡                |
@@ -180,9 +178,7 @@ The mission of @reliverse/prompts is to achieve the 🟢 in all categories.
 | - Task/Spinner & Progressbar Components                  | 🔵                                                             | 🟡                                        | 🟡                     | 🟡                 | 🟡                   | 🟢                      | 🟡              | 🟡                | 🟡                |
 | - Image Component                                        | 🔴 Planned                                                     | 🟡                                        | 🟡                     | 🟡                 | 🟡                   | 🟢                      | 🟡              | 🟡                | 🟡                |
 | - Range Component                                        | 🔵                                                             | 🟡                                        | 🟡                     | 🟡                 | 🟡                   | 🟢                      | 🟡              | 🟡                | 🟡                |
-| -------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------ | ---------------------- | ------------------ | -------------------- | ------------------------- | --------------- | ------------------ | ----------------- |
 | **Arguments Support**                                    |                                                                |                                            |                        |                    |                      |                           |                 |                    |                   |
-| -------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------ | ---------------------- | ------------------ | -------------------- | ------------------------- | --------------- | ------------------ | ----------------- |
 | - Fast and lightweight argument parser                   | 🟢                                                             | 🟡                                        | 🟡                     | 🟡                 | 🟡                   | 🟡                      | 🟢              | 🟡                | 🟡                |
 | - Smart value parsing with typecast                      | 🟢                                                             | 🟡                                        | 🟡                     | 🟡                 | 🟡                   | 🟡                      | 🟢              | 🟡                | 🟡                |
 | - Boolean shortcuts and unknown flag handling            | 🟢                                                             | 🟡                                        | 🟡                     | 🟡                 | 🟡                   | 🟡                      | 🟢              | 🟡                | 🟡                |
@@ -192,6 +188,48 @@ The mission of @reliverse/prompts is to achieve the 🟢 in all categories.
 | - Auto generated usage and help                          | 🟢                                                             | 🟡                                        | 🟡                     | 🟡                 | 🟡                   | 🟡                      | 🟢              | 🟡                | 🟡                |
 
 **Related Links**: [@reliverse/relinka](https://github.com/reliverse/relinka#readme), [ESM/CJS](https://dev.to/iggredible/what-the-heck-are-cjs-amd-umd-and-esm-ikm), ["Pure ESM package"](https://gist.github.com/sindresorhus/a39789f98801d908bbc7ff3ecc99d99c), [Clean code](https://github.com/ryanmcdermott/clean-code-javascript#readme), ["UX patterns for CLI tools"](https://lucasfcosta.com/2022/06/01/ux-patterns-cli-tools.html), [DX (Developer Experience)](https://github.blog/enterprise-software/collaboration/developer-experience-what-is-it-and-why-should-you-care), [TypeBox](https://github.com/sinclairzx81/typebox#readme), ["ANSI Escape Sequences"](https://gist.github.com/ConnerWill/d4b6c776b509add763e17f9f113fd25b), [@chjj/blessed](https://github.com/chjj/blessed#readme), [Wrapping](https://github.com/SBoudrias/Inquirer.js/pull/255), [Visual Control](https://stackoverflow.com/questions/68344362/how-do-i-get-full-visual-control-of-a-terminal-with-node)
+
+## CLI Best Practices
+
+@reliverse/prompts follows the following best practices (legend: 🟢 - fully supported, 🔵 - partially supported, 🔴 - not supported, 🟡 - not yet verified):
+
+- 🟡 [Respect POSIX args](./prompts-cc/cli-best-practices#11-respect-posix-args)
+- 🟡 [Build empathic CLIs](./prompts-cc/cli-best-practices#12-build-empathic-clis)
+- 🟡 [Stateful data](./prompts-cc/cli-best-practices#13-stateful-data)
+- 🟡 [Provide a colorful experience](./prompts-cc/cli-best-practices#14-provide-a-colorful-experience)
+- 🟡 [Rich interactions](./prompts-cc/cli-best-practices#15-rich-interactions)
+- 🟡 [Hyperlinks everywhere](./prompts-cc/cli-best-practices#16-hyperlinks-everywhere)
+- 🟡 [Zero configuration](./prompts-cc/cli-best-practices#17-zero-configuration)
+- 🟡 [Respect POSIX signals](./prompts-cc/cli-best-practices#18-respect-posix-signals)
+- 🟡 [Prefer a small dependency footprint](./prompts-cc/cli-best-practices#21-prefer-a-small-dependency-footprint)
+- 🟡 [Use the shrinkwrap, Luke](./prompts-cc/cli-best-practices#22-use-the-shrinkwrap-luke)
+- 🟡 [Cleanup configuration files](./prompts-cc/cli-best-practices#23-cleanup-configuration-files)
+- 🟡 [Accept input as STDIN](./prompts-cc/cli-best-practices#31-accept-input-as-stdin)
+- 🟡 [Enable structured output](./prompts-cc/cli-best-practices#32-enable-structured-output)
+- 🟡 [Cross-platform etiquette](./prompts-cc/cli-best-practices#33-cross-platform-etiquette)
+- 🟡 [Support configuration precedence](./prompts-cc/cli-best-practices#34-support-configuration-precedence)
+- 🟡 [Containerize the CLI](./prompts-cc/cli-best-practices#41-containerize-the-cli)
+- 🟡 [Graceful degradation](./prompts-cc/cli-best-practices#42-graceful-degradation)
+- 🟡 [Node.js versions compatibility](./prompts-cc/cli-best-practices#43-nodejs-versions-compatibility)
+- 🟡 [Shebang autodetect the Node.js runtime](./prompts-cc/cli-best-practices#44-shebang-autodetect-the-nodejs-runtime)
+- 🟡 [Put no trust in locales](./prompts-cc/cli-best-practices#51-put-no-trust-in-locales)
+- 🟡 [Trackable errors](./prompts-cc/cli-best-practices#61-trackable-errors)
+- 🟡 [Actionable errors](./prompts-cc/cli-best-practices#62-actionable-errors)
+- 🟡 [Provide debug mode](./prompts-cc/cli-best-practices#63-provide-debug-mode)
+- 🟡 [Proper use of exit codes](./prompts-cc/cli-best-practices#64-proper-use-of-exit-codes)
+- 🟡 [Effortless bug reports](./prompts-cc/cli-best-practices#65-effortless-bug-reports)
+- 🟡 [Use a bin object](./prompts-cc/cli-best-practices#71-use-a-bin-object)
+- 🟡 [Use relative paths](./prompts-cc/cli-best-practices#72-use-relative-paths)
+- 🟡 [Use the files field](./prompts-cc/cli-best-practices#73-use-the-files-field)
+- 🟡 [Strict Opt-in Analytics](./prompts-cc/cli-best-practices#81-strict-opt-in-analytics)
+- 🟡 [Include a --version Flag](./prompts-cc/cli-best-practices#91-include-a---version-flag)
+- 🟡 [Use Semantic Versioning](./prompts-cc/cli-best-practices#92-use-semantic-versioning)
+- 🟡 [Provide Version Information in a 'package.json' file](./prompts-cc/cli-best-practices#93-provide-version-information-in-a-packagejson-file)
+- 🟡 [Display Version in Error Messages and Help Text](./prompts-cc/cli-best-practices#94-display-version-in-error-messages-and-help-text)
+- 🟡 [Backward Compatibility](./prompts-cc/cli-best-practices#95-backward-compatibility)
+- 🟡 [Publish Versioned Releases on npm](./prompts-cc/cli-best-practices#96-publish-versioned-releases-on-npm)
+- 🟡 [Update Your App's Version Documents](./prompts-cc/cli-best-practices#97-update-your-apps-version-documents)
+- 🟡 [Minimize Argument Injection](./prompts-cc/cli-best-practices#101-minimize-argument-injection)
 
 ## Wrap-Up
 
