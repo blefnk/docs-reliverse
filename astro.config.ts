@@ -50,6 +50,7 @@ export default defineConfig({
     }),
   ],
   redirects: {
+    "/prompts/": "/reliverse/prompts/",
     "/cli/": "/reliverse/cli/",
     "/env/": "/relivator/env/",
   },
